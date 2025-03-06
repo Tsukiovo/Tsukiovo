@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsukiovo
+- 👋 Hi, I’m Tsuki
 - 👀 I’m interested in ACG, techs and books
 - 🌱 I’m currently learning Os, Web and Golang
 - 🌙 I’m building my website (it maybe take a long time though
